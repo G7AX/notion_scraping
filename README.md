@@ -1,1 +1,1 @@
-#notion script
+# notion script
